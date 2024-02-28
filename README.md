@@ -1,5 +1,9 @@
 # Leon Template (html - css)
 
+## To preview the project
+
+### click here: [Leon Project](https://leon123.netlify.app/)
+
 Welcome to the Leon Template project! This is a design project for creating an HTML and CSS template named "Leon". The Leon template offers a sleek and modern design that can be used for various purposes, such as websites, portfolios, or landing pages.
 
 ### Features
