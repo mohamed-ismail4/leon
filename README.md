@@ -6,6 +6,8 @@
 
 Welcome to the Leon Template project! This is a design project for creating an HTML and CSS template named "Leon". The Leon template offers a sleek and modern design that can be used for various purposes, such as websites, portfolios, or landing pages.
 
+---
+
 ### Features
 
 The Leon Template offers the following features:
@@ -16,6 +18,8 @@ The Leon Template offers the following features:
 4. Easy to Use and Customize: The Leon Template is designed to be user-friendly and easy to customize. The HTML and CSS code is well-structured and commented, making it simple to understand and modify. Users can easily update the content, images, colors, and styles to match their branding and requirements.
 5. Browser Compatibility: The template is tested and optimized to ensure compatibility with major web browsers, including Chrome, Firefox, Safari, and Edge. This ensures that the website will display consistently and correctly across different browsers.
 
+---
+
 ### Usage
 
 To use the Leon Template for your project, follow these steps:
@@ -25,6 +29,8 @@ To use the Leon Template for your project, follow these steps:
 - Customize the template by replacing the placeholder content with your own text, images, and branding elements. You can modify the colors, fonts, and styles in the CSS file to match your desired design.
 - Test the template by opening the index.html file in a web browser. Ensure that the layout and functionality are as expected.
 - Deploy the template to your web server or hosting platform to make it accessible to the public.
+
+---
 
 ### Folder Structure
 
